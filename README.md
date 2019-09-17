@@ -22,7 +22,7 @@
 
 Family tracking is an iOS application that I have developed in order to share my experiences and see your feedbacks! I have used latest technologies and paradigms, and also applied MVVM architecture. I need some feedbacks about testability and code  quality. I am open to hear any bad & good feedbacks, they'll be remarkable.
 
-You can also see my programmatic layout style in Swift, with enums. I have inspired from this repository. I highly recommend you to take a look it.
+You can also see my programmatic layout style in Swift, with enums. I have inspired from <a href="https://github.com/ozgurersoz/UIStyling">this repository</a>. I highly recommend you to take a look it.
 
 ### How does it work?
 Family track uses firebase firestore to save family and member informations. I haven't use realtime one, instead map page reloads itself in 30 seconds range. There are two main pages:
