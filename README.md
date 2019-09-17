@@ -16,7 +16,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](/app.png)
+
+<img src="app.png" alt="Logo">
+
 
 Family tracking is an iOS application that I have developed in order to share my experiences and see your feedbacks! I have used latest technologies and paradigms, and also applied MVVM architecture. I need some feedbacks about testability and code  quality. I am open to hear any bad & good feedbacks, they'll be remarkable.
 
